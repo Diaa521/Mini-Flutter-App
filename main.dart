@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart' // Library
+import 'package:flutter/material.dart'; // Library
 
 void main() { // Main function
   runApp(const MaterialApp(home: Scaffold();) 
