@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart' // Library
 
 void main() { // Main function
-  runApp(const MaterialApp(home: Scaffold(backgroundColor: Colors.white);) 
+  runApp(const MaterialApp(home: Scaffold();) 
 }
 
          
